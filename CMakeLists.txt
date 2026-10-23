@@ -9,8 +9,8 @@ if (MSVC)
 endif()
 
 add_executable(lab3
-    program.cpp
+    main.cpp
     calculator.cpp
     dependencies.cpp
-    schedule.cpp
+    scheme.cpp
 )
