@@ -39,7 +39,7 @@ lab3.exe > results.txt
 - `main.cpp` - `main`
 - `calculator.` - клас `Calculator` (запуск потоків, дія `f`)
 - `scheme.` - клас `Scheme` (розклад по потоках)
-- `dependencies.*` - клас `Dependencies` (засувки залежностей)
+- `dependencies.` - клас `Dependencies` (засувки залежностей)
 - `action.h` - структура `Action`
 - `results.txt` - вивід програми
 - `diagram.png` - діаграма розподілу по потоках
